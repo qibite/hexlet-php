@@ -1,0 +1,19 @@
+{
+    "name": "webdeveloperzbk/hexlet-php",
+    "description": "Hexlet project for test",
+    "varsion": "1.0.0-dev",
+    "autoload": {
+        "psr-4": {
+            "Webdeveloperzbk\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Dolzhenko",
+            "email": "webdeveloperzbk@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
